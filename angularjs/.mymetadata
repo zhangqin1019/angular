@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="angular"
+  id="myeclipse.1476696904341"
+  context-root="/angular"
+  j2ee-spec="5.0"
+  archive="angular.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
